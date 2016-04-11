@@ -1,4 +1,9 @@
+import 'bootstrap/dist/css/bootstrap.css';
+import jquery from 'jquery';
 import angular from 'angular';
+import angularanimate from 'angular-animate';
+import angularfire from 'angularfire';
+import uirouter from 'angular-ui-router';
 
 import '../style/app.css';
 
